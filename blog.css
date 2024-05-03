@@ -1,0 +1,63 @@
+page {
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+
+.container{
+    position: absolute;
+    background-color:rgb(59, 58, 58);
+    padding-top: 0;
+margin: 0;
+height: 70px ;
+width: 100%;
+color: white;
+}
+
+
+.type, p{
+    font-size: medium;
+    word-spacing: 10px;
+    padding-right: 50px;
+    color: rgb(15, 15, 15);
+    margin: 0;
+}
+
+
+.sherlock{
+    font-size: large;
+    position: absolute;
+    margin: 0;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    overflow-x: hidden;
+}
+
+.sher{
+padding-top: 10px;
+}
+
+.book{
+    font-size: large;
+    word-spacing: 10px;
+    margin: 0;
+}
+
+.one{
+    padding-top:  150px;
+}
+
+.h2{
+    font-size: large;
+    color: rgb(22, 22, 22);
+}
+
+.three{
+    font-size: large;
+}
